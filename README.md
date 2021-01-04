@@ -14,4 +14,5 @@ How to Stay in a growith mindset. Here are three examples.
   2. Continue the love of learning new versions of coding
   3. Be inspired by the success of others.
 
-In the words of Robert Persig: > “gumption trap” – The phenomenon of knowing what needs to be done, but lacking the motivation to do it. 
+In the words of Robert Persig: 
+> “gumption trap” – The phenomenon of knowing what needs to be done, but lacking the motivation to do it. 
