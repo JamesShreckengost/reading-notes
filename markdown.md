@@ -32,8 +32,8 @@ function fancyAlert(arg) {
 
 # Github Pages
 1. Allows custom domains
-2. Gives different custom pre-built options
-3. Can drag files and drop them into your website
-4. Can create Data collections, blogs, etc.
+1. Gives different custom pre-built options
+1. Can drag files and drop them into your website
+1. Can create Data collections, blogs, etc.
 
 
