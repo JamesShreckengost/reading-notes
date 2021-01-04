@@ -17,4 +17,6 @@ How to Stay in a growith mindset. Here are three examples.
 In the words of Robert Persig: 
 > “gumption trap” – The phenomenon of knowing what needs to be done, but lacking the motivation to do it. 
 
-Table of Context(markdown.md)
+### Table of Context
+- [Markdown Reading](markdown.md)
+- [Coders Computer](coders-computer.md)
