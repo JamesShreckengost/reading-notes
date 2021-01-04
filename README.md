@@ -1,2 +1,2 @@
-# reading-notes1
+# reading-notes
 Reading notes for Codefellows Coding
