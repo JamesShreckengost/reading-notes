@@ -60,12 +60,12 @@
       * file.exe - an executable file, or program.
       * file.txt - a plain text file.
       * file.png, file.gif, file.jpg - an image.
-     1. Linux is case sensitive
-     1. Spaces in names
-     1. Quotes 
+     2. Linux is case sensitive
+     3. Spaces in names
+     4. Quotes 
       * You may use either single or double quotes (later on we will see that there is a subtle difference between the two but for now that difference is not a problem).
-      1. Escape Characters
+      5. Escape Characters
         * Shortcut - In the previous section we learnt about something called Tab Completion. If you use that before encountering the space in the directory name then the terminal will automatically escape any spaces in the name for you.
-      1. Is -a, List the contents of a directory, including hidden files.
+      6. Is -a, List the contents of a directory, including hidden files.
       
     
