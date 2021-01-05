@@ -30,7 +30,7 @@ function fancyAlert(arg) {
   }
 }
 
-# Github Pages
+# Github Pages 
 1. Allows custom domains
 1. Gives different custom pre-built options
 1. Can drag files and drop them into your website
