@@ -20,3 +20,4 @@ In the words of Robert Persig:
 ### Table of Context
 - [Markdown Reading](markdown.md)
 - [Coders Computer](coders-computer.md)
+- [Github Reading](github.md)
