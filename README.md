@@ -22,3 +22,4 @@ In the words of Robert Persig:
 - [Coders Computer](coders-computer.md)
 - [Github Reading](github.md)
 - [Revisions and the Cloud Reading Notes](read03.md)
+- [Structure web pages with HTML](read04.md)
