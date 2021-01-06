@@ -5,7 +5,7 @@ James Shreckengost
 This is my reading notes for Codefellows.
 
 ### About Me
-I am *James. I love playing video games, specifically Apex. I also love listening to music.
+I am James. I love playing video games, specifically Apex. I also love listening to music.
 My Github Profile is at https://github.com/JamesShreckengost
 
 ### Growth Mindset
@@ -21,3 +21,4 @@ In the words of Robert Persig:
 - [Markdown Reading](markdown.md)
 - [Coders Computer](coders-computer.md)
 - [Github Reading](github.md)
+- [Revisions and the Cloud Reading Notes](read03.md)

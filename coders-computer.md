@@ -25,7 +25,7 @@
   * Atom Brackets
   * Sublime Text
   
-  ## The Command Line
+## The Command Line
     1. Intro
       * You can have as many terminals open as you want.
     2. What are They Exactly
@@ -37,7 +37,7 @@
       * Shell is the operating system that defines how the terminal will behave
       * BASH is the most common shell 
       
-   ## Basic Navigation
+## Basic Navigation
     1. So where are we
       * pwd - print working directory, tells what current directory you are working in
     2. Whats in our current location
@@ -55,7 +55,7 @@
       * Shortcut - If you run the command cd without any arguments then it will always take you back to your home directory.
       * Shortcut - It's kinda hard to demonstrate here so it's probably best if you try it yourself. If you start typing cd /hTab/<beginning of your username>Tab you'll get a feel for how it works.
    
-   ## More about files
+## More about files
     1. linux is an extensionless system
       * file.exe - an executable file, or program.
       * file.txt - a plain text file.
