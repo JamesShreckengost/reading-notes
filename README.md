@@ -23,3 +23,4 @@ In the words of Robert Persig:
 - [Github Reading](github.md)
 - [Revisions and the Cloud Reading Notes](read03.md)
 - [Structure web pages with HTML](read04.md)
+- [Design web pages with css notes](read05.md)
