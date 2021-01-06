@@ -21,16 +21,24 @@
         - Ypi xan specify your choice of background color in the same three ways you can specify foreground colors.
         - Most default browsers windows have a whote background, but browser users can set a background color for thir window
     * Understanding color 
-        - RGB values
-        - Hue
-        - Hex Codes
-        - Saturation 
-        - Color names
-        - Brightness
+        - RGB values: Values for red, green, and blue are expressed as numbers between 0 and 225
+        - Hue: Hue is near to the colloquial ideal of color. Technically speaking however, a color can also have saturation and brightness as well as hue
+        - Hex Codes: Hex values represent values for red, green, and blue in hexadecimal code
+        - Saturation: Saturation refers to the amoubnt of gray in a color. At maximum saturation, there would be no gray in the color. At minimum saturation, the color would be mostly gray
+        - Color names: Colors are represented by predefined names. However, they are very limited in number.
+        - Brightness: Brightness refers to how much black is in a color. At maximum brightness, there would be no black in the color. At minimum brightness, the color would be very dark
+    
     * Contrast
-        - Low Contrst
-        - High contrast
-        - Medium contrast
-    * It is important to ensure that there is enough contrast between any text and the background color.
-    * CSS3 has introduced an extra value for RGB colors to indicate opacity. It is known as RGBA
-    * CSS3 also allows you to specify colors as HSL values, with an optional opacity value. It is known as HSLA
+        - Low Contrst: text is harder tto read when there is low contrast between backgorund and foreground colors
+        - High contrast: text is easier to read when there is higher contrast between foreground and background
+        - Medium contrast: for long spans of text, reducing the contrast a little bit improves readability
+        - If text is reversed out (a light color on a dark background), you can increase the height between the lines and the weight of the font to make it easier to read
+    * CSS3: Hsl colors
+        - Hue: often represented as a color circle where the angle represents the color, although it may also be shown as a slider with values from 0 to 360
+        - Saturation: represented as a percentage. 100 to 0 %.
+        - Lightness: the amount of white or black in a color. lightness is represented as a percentage
+        
+        Sumamary:
+         - It is important to ensure that there is enough contrast between any text and the background color.
+        - CSS3 has introduced an extra value for RGB colors to indicate opacity. It is known as RGBA
+        - CSS3 also allows you to specify colors as HSL values, with an optional opacity value. It is known as HSLA
