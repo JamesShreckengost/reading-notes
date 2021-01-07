@@ -24,3 +24,4 @@ In the words of Robert Persig:
 - [Revisions and the Cloud Reading Notes](read03.md)
 - [Structure web pages with HTML](read04.md)
 - [Design web pages with css notes](read05.md)
+- [Dynamic web pages with JavaScript](read06a.md)
