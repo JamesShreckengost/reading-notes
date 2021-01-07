@@ -26,3 +26,4 @@ In the words of Robert Persig:
 - [Design web pages with css notes](read05.md)
 - [Dynamic web pages with JavaScript](read06a.md)
 - [Computer Architecture and Logic](read06b.md)
+- [Programming with JavaScript](read07.md)
