@@ -20,10 +20,10 @@ In the words of Robert Persig:
 ### Table of Context
 - [Markdown Reading](markdown.md)
 - [Coders Computer](coders-computer.md)
-- [Github Reading](github.md)
 - [Revisions and the Cloud Reading Notes](read03.md)
 - [Structure web pages with HTML](read04.md)
 - [Design web pages with css notes](read05.md)
 - [Dynamic web pages with JavaScript](read06a.md)
 - [Computer Architecture and Logic](read06b.md)
 - [Programming with JavaScript](read07.md)
+- [Operators and Loops](read08.md)
