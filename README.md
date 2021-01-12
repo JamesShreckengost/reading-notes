@@ -30,3 +30,4 @@ In the words of Robert Persig:
 - [Operators and Loops](read08.md)
 #### 201
 - [Introductory to HTML and JavaScript](/201/read01.md)
+- [Basics of HTML, CSS & JS](/201/read02.md)
