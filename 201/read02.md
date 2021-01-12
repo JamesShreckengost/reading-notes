@@ -1,0 +1,80 @@
+# Read 02 notes: Basics of HTML, CSS & JS
+## (HTML) Chapter 2: “Text” (pp.40-61)
+- Structural markup: the elemetnst that you can use to describe both headings and paragraphs
+- Semantic markup: Which provides extra information; such as where emphasis is placed in a sentence, that something you have written is a quotation, the meaning of acronyms, and so on
+- HTML has 6 "levels" of headings
+- To creat a paragraph, surround the words that make up the paragraph with a opening <p> and closing </p>
+- <b> make bold </b>
+- <i> make italic <i>
+- The <sup> element is used to contain characters that should be superscript such as the suffixes of dates or mathematical concepts like rasing a number to a power such as 2
+- The <sub> element is used to contain characters that should be subscript. It is commonly used with foot notes or chemical formulas such as h20 
+- <br /> : As you have already seen, the browser will automatically show each new paragraph or heading on a new line. But if you want to add a line break inside the middle of a paragrpah you can use the line break tag
+- <hr /> : To create a break between themes -- such as a change of topic ina book or a new scene in a play -- you can add a horizontal rule between sections using the <hr /> tag
+- Content managment systems and HTML editors such a Dreamweaver usually have two views of the page you are creating: a visual editor and a code view.
+- There are some text elements that are not intended to affect the structure of your web pages, but they do add extra information to the pages -- they are known as semantic markup
+- <Strong> : The use of the <strong> element indicates that its content has strong importance
+- <Em>: This element indicates emphasis that subtly changes the meaning of a sentence
+- Quotations: There are two elements commonly used for marking up quotations
+  - Blockquote: the <blockquote> element is used for logner quotes that take up an entire paragraph. Note how the <p> element is still used inside the <blockquote> element.
+  - q: used for shorter contents of the <blockquote> element, however you should not use this element just to indent a piece of text
+  - HTML elemetns are used to describe the structure of the page (i.e. headings,subheadings,paragraphs)
+  - They also provide semantic information (i.e. where emphasis should be placed, the definition of any acronyms used, when given a text is a quotation)
+## (HTML) Chapter 10: Ch.10 “Introducing CSS” (pp.226-245)
+- CSS allows you to create rules that specify how the content of an element should appear.
+- The key to underatnding how CSS works is to imagine that there is an invisible box around every HTML
+- CSS allows you to create rules that control the way that each individual box is presented
+- CSS workks by associating rules with HTML elements. These rules govern how the content of specified elements should be displated A CSS rule contains two parts: a selector and a declaration
+- CSS declarations sit inside curly brackets and each is made up of two parts: a property and a value, seperated by a colon. You can specify several properties in one declaration, each seperate by a semi-colon.
+- CSS rules usually appear in a seperate document although they may appear within an HTML page.
+## Chapter 2: “Basic JavaScript Instructions” (pp.53-84)
+- The Language: Syntax and Grammar 
+  - Like any new language, there are new words to learn rules for how these can be put together.
+- Giving Instructions: for a browser to follow
+  - Web browsers (and computers in general) approach tasks in a very different way than a human might. Your instructions need to reflect how computers get things done
+- Statements: A script is a series of instructions that computer can follow one-by-one. Each individual instruction or step is known as a statement. Statements should end witha semicolon
+  - Statements are instructions and each one starts a new line
+  - Statements can be organized into code blocks
+- Comments: You should write comments to explain what your code does. They help make your code easier to read and understand. This can help you and others who read your code.
+  - Multi-Line Comments: use /* */
+  - Single-Line Comments: use //
+- What is a Variable?
+  - A script will have to temporarily store the bits of information it needs to do its job. It can store this data in variables
+  - A variable is a good name for this concept becuase the data stored in a variable can change (or vary) each time script runs.
+  - The result is said to be calculated or computed using the data stored in the variables
+- Variables: How to Declare Them
+  - Before you can use a variable, you need to announce that you want to use it. This involves creating the variable and giving it a name. Programmers say that you declare the variable.
+- Variables: How to Assign Them a Value
+  - Once you have created a variable, you can tell it what information you would like it to store for you. Programmers say that you assign a value to the variable.
+  - Until you have assigned a value to a variable, programmers say the value is undefined
+- Data Types
+  - JavaScript distinguishes between numbers, strings, and true or false values known as Booleans
+  - Numeric Data Type: handles numbers
+  - String Data Type: consists of lettters and other characters
+  - Boolean Data type: can have one of two values: true or false
+- Arrays are special types of variables that store more than one piece of related information
+- JavaScript distinguishes between number (0-9), strings (text), and Boolean values (true or false)
+- Expressions evaluate into a single value
+- Expressions rely on operators to calculate a value
+## Chapter 4: “Decisions and Loops” only up to the section on switch statements (pp.145-162)
+- Evaluations: You can analyze in your scripts to determine whether or not they match expected results
+- Decisions: Using the results of evaluations, you can decide which path your script should go down.
+- Loops: There are also many occasions where you will want to perform the same set of steps repeatedly
+- Decision Making 
+  - There are often several places in a script where decisions are made that determine which lines of code should be run next.
+  - Flowcharts can help you plan for these occasions
+- Evaluating Conditions & Conditional Statements
+  - There are two components toa decision: 1. An expression is evaluated, which returns a value. 2. A Confitional statement says what to do in a given siuation
+  - Evaluation of a Condition: This is commonly done by comparing two values using a comparison operator which returns a value of true of false.
+  - Conditional Statements: A conditional statement is abased on a concept of if/then/else; If a confition is met, then your code executes one or more statements, else your code does something different
+  - Comparison operators: evaluations conditions
+    - You can evaluate by comparing one value in the script to what you expect it might be. The results will be a Boolean: true or false.
+  - Structuring Comparison Operators
+    - In any condition, there is usually one operator and two operands. The operands are placed on each side of the operator. They can be values or variables. You often see expressions enclosed in parenthesis.
+  - Using Expressions with Comparison Operators
+    - The operand does not have to be a single value or variable name. An operand can be an expression.
+  - Logical Operators
+    - Comparison operators usually return single values of true or false. Logical operators allow you to compare the results of more than on comparison operator
+  - If Statements
+    - The if statement evaluates (or checks) a condition. If the condition evaluates to true, any statements in the subsequent code block and executed
+  - If...Else Statements
+    - The if...else statement checks a condition. If it resolves to true the first code block is executed. Ig the condition resolves to false the second code block is run instead. 
