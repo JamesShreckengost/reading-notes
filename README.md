@@ -29,4 +29,4 @@ In the words of Robert Persig:
 - [Programming with JavaScript](read07.md)
 - [Operators and Loops](read08.md)
 #### 201
-- [Introductory to HTML and JavaScript](read01.md)
+- [Introductory to HTML and JavaScript](/201/read01.md)
