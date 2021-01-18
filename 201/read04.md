@@ -106,7 +106,7 @@
   - More recently, developers have opted for a purely CSS-based solution because it menas that there is no need to added to the HTML just to fix the height of the containg elements.
   - The pure CSS solution adds two CSS rules to the containing element.
 ### Creating Multi-Column Layouts With Floats
-- Many web pages use multiple columns in their design. This is achieved by using a <div> element to represent each column. T
+- Many web pages use multiple columns in their design. This is achieved by using a <div> element to represent each column. 
 - The following three CSS properties are used to postion the columns next to each other:
   - Width: This sets the width of the columns
   - Float: This potions the columns next to each other
