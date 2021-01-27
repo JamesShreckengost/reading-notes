@@ -32,3 +32,15 @@ In the words of Robert Persig:
 - [Introductory to HTML and JavaScript](/201/read01.md)
 - [Basics of HTML, CSS & JS](/201/read02.md)
 - [HTML Lists, CSS Boxes, JS Control Flow](/201/read03.md)
+- [HTML Links, CSS Layout, JS Functions](/201/read04.md)
+- [HTML Images; CSS Color & Text](/201/read05.md)
+- [JS Object Literals; The DOM](/201/read06.md)
+- [HTML Tables; JS Constructor Functions](/201/read07.md)
+- [More CSS Layout](/201/read08.md)
+- [Forms and Events](/201/read09.md)
+- [JS Debugging](/201/read010.md)
+- [Assorted Topics](/201/read011.md)
+- [Docs for the HTML Element & Chart.js](/201/read012.md)
+
+
+
