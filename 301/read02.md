@@ -1,0 +1,52 @@
+# Read: 02 - jQuery, Events, and The DOM
+### JavaScript and jQuery book by Jon Duckett pages 293-301, 306-331 and 354-357
+- jQuery is a simple easy way to achieve vareity of js tasks quickly, with out any fall-back code neeeded. 
+  - Select elements
+  - Perform Taks
+  - Handle Events
+- jQuery is a Js file you can include in your web pages
+- Lets you find elements CSS-style selectors then do something with them using jQuery.
+- jQuery() is often used as $().
+- You can store the jQuery object in a variable.
+- jQuery object has many methods that you use to work with elements you select.
+- When you select one or more elements, a jQuery object is returned; also known as a matched set or a jquery selection.
+  - single element
+  - multiple element
+- Some jquery methods both retrieve information from, and update the contents of elements. They do not apply to all elements.
+  - get information 
+  - set information
+- When you create a selection with jQuery, it stores a reference to the corresponding nodes in the dom tree. 
+- A jQuery object stores references to elements. Catching a jQuery object stores a reference to it in variable. 
+- jQuery's .ready() method checks that the page is ready for your code to work with.
+- The .html() and .text() methods both retrieve and update the content of elements. The page will focus on how to retrieve element content. 
+- Updating Elements
+  - .html()
+  - .text()
+  - .replaceWith()
+  - .remove()
+- Inserting Elements
+  - .before()
+  - .prepend()
+  - .after()
+  - .append()
+- Getting and Setting Attribute Values
+  - .attr()
+  - .addClass()
+  - .removeAttr()
+  - .removeClass()
+- The .css() method lets you retrieve and set the values of CSS properties
+- jQuery allows you to recreate the functionality of a loop on a selection of elements, using the .each() method. 
+- The .on() method is used to handle all events. 
+- Every event handling function receives an event object. It has methods and properties related to the event that occurred. 
+### 6 Reasons for Pair Programming
+- Working in paired programming are is the new standard in the work place.
+- Paired program is having a Navigator and a Driver. The navigator guides the driver through the code but does not put any direct input in.
+- Four fundamental skills for pair programming listening, speaking, reading, and writing.
+- We will use these skills to work through code fellows.
+- Why pair program?
+  - Greater efficiency
+  - Enganged collaboration
+  - Learning from fellow students
+  - Social skills
+  - Job Interview readiness
+  - work environment readiness
